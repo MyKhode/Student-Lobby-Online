@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏅Student Lobby Online + [Project](https://drive.google.com/file/d/1MNQM9gkYjb7tHPq1IFnXvy04x1J_cH8D/view?usp=sharing) + RUPP STEM Building 🏅
+# 🏅Student Lobby Online + [Project](https://drive.google.com/file/d/1MNQM9gkYjb7tHPq1IFnXvy04x1J_cH8D/view?usp=sharing) + STEM Building 🏅
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/SOYTET/Student-Lobby-Online">
