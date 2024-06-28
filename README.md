@@ -5,7 +5,7 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Ikhode-kh/Student-Lobby-Online">
 <img alt="GitHub License" src="https://img.shields.io/github/license/Ikhode-kh/Student-Lobby-Online">
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Ikhode-kh/Student-Lobby-Online">
+<img alt="Git Release" src="https://img.shields.io/github/v/release/Ikhode-kh/Student-Lobby-Online">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Ikhode-kh/Student-Lobby-Online">
 
 # RUPP-ITE-G9-Y2-S1 
